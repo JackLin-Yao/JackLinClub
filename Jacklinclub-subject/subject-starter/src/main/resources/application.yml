@@ -1,0 +1,12 @@
+###
+ # @Author: jackl 1471122902@qq.com
+ # @Date: 2024-10-06 04:36:35
+ # @LastEditors: jackl 1471122902@qq.com
+ # @LastEditTime: 2024-10-06 04:38:48
+ # @FilePath: Jacklinclub-subject/subject-starter/src/main/resources/application.yml
+ # @Description: 这是默认设置,可以在设置》工具》File Description中进行配置
+###
+
+server:
+  port: 8080
+  
